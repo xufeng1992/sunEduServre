@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sunEdu-admin:war">
+    <output-path>$PROJECT_DIR$/sunEdu-admin/target</output-path>
+    <root id="archive" name="sunEdu-admin.war">
+      <element id="artifact" artifact-name="sunEdu-admin:war exploded" />
+    </root>
+  </artifact>
+</component>

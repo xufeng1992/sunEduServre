@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sunEdu-admin/sunEdu-admin.iml" filepath="$PROJECT_DIR$/sunEdu-admin/sunEdu-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sunEdu-app/sunEdu-app.iml" filepath="$PROJECT_DIR$/sunEdu-app/sunEdu-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sunEdu-core/sunEdu-core.iml" filepath="$PROJECT_DIR$/sunEdu-core/sunEdu-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sunEdu-model/sunEdu-model.iml" filepath="$PROJECT_DIR$/sunEdu-model/sunEdu-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sunEduServre.iml" filepath="$PROJECT_DIR$/sunEduServre.iml" />
+    </modules>
+  </component>
+</project>
