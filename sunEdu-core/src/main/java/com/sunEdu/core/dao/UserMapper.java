@@ -1,6 +1,6 @@
 package com.sunEdu.core.dao;
 
-import com.sunEdu.comm.model.User;
+import com.sunEdu.model.User;
 
 public interface UserMapper {
     int deleteByPrimaryKey(Integer id);

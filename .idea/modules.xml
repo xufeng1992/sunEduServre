@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/sunEdu-app/sunEdu-app.iml" filepath="$PROJECT_DIR$/sunEdu-app/sunEdu-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/sunEdu-core/sunEdu-core.iml" filepath="$PROJECT_DIR$/sunEdu-core/sunEdu-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/sunEdu-model/sunEdu-model.iml" filepath="$PROJECT_DIR$/sunEdu-model/sunEdu-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sunEdu-util/sunEdu-util.iml" filepath="$PROJECT_DIR$/sunEdu-util/sunEdu-util.iml" />
       <module fileurl="file://$PROJECT_DIR$/sunEduServre.iml" filepath="$PROJECT_DIR$/sunEduServre.iml" />
     </modules>
   </component>

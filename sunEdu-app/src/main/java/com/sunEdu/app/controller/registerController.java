@@ -1,4 +1,4 @@
-package com.sunEdu.comm.model.app.controller;/**
+package com.sunEdu.app.controller;/**
  * Created by Administrator on 2016/8/15 0015.
  */
 

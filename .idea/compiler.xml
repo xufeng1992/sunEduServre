@@ -26,6 +26,7 @@
         <module name="sunEdu-app" />
         <module name="sunEdu-core" />
         <module name="sunEdu-model" />
+        <module name="sunEdu-util" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -33,6 +34,7 @@
       <module name="sunEdu-app" target="1.8" />
       <module name="sunEdu-core" target="1.8" />
       <module name="sunEdu-model" target="1.8" />
+      <module name="sunEdu-util" target="1.8" />
       <module name="sunEduServre" target="1.8" />
     </bytecodeTargetLevel>
   </component>

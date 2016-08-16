@@ -13,6 +13,7 @@
         <module>sunEdu-admin</module>
         <module>sunEdu-core</module>
         <module>sunEdu-model</module>
+        <module>sunEdu-util</module>
     </modules>
 
     <properties>
